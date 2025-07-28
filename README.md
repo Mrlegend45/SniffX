@@ -31,7 +31,7 @@ This tool is made for **educational** and **testing purposes only**. Please use 
 ## 🎥 Tutorial Video
 
 Watch full setup & usage guide here:  
-👉 [BugBot Full Tutorial on YouTube](https://youtu.be/YOUR_VIDEO_ID)
+👉 [BugBot Full Tutorial on YouTube](https://youtu.be/XvT00ah1DSQ)
 
 ---
 
